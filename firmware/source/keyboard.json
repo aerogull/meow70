@@ -1,7 +1,7 @@
 {
-    "manufacturer": "StatusCritical",
+    "manufacturer": "aerogull",
     "keyboard_name": "meow70",
-    "maintainer": "StatusCritical",
+    "maintainer": "aerogull",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
     "build": {
