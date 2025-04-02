@@ -4,7 +4,7 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [StatusCritical](https://github.com/StatusCritical)
+* Keyboard Maintainer: [aerogull](https://github.com/aerogull)
 * Hardware Supported: the meow70 project
 * Hardware Availability: *Links to where you can find this hardware*
 
