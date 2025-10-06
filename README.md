@@ -27,7 +27,6 @@ This was a pretty difficult build, I ended up redoing the routing and placement 
 |----|----|----|----|----|----|																																																																			
 |1|"SW17	SW20	SW24	SW3	SW67	SW47	SW49	SW2	SW62	SW52	SW44	SW11	SW40	SW9	SW1	SW64	SW50	SW39	SW51	SW60	SW34	SW36	SW37	SW38	SW10	SW28	SW16	SW35	SW19	SW32	SW27	SW7	SW21	SW68	SW66	SW25	SW45	SW69	SW23	SW26	SW13	SW65	SW22	SW8	SW54	SW63	SW18	SW5	SW46	SW43	SW30	SW61	SW31	SW4	SW6	SW33	SW48	SW12"|"MX-Hotswap-1U"|58|"SW_Push"|||											
 |2|"SW53	SW15"|"MX-Hotswap-1.25U"|2|"SW_Push"|||		
-
 |3|"A1	A3"|"RaspberryPi_Pico_Common_THT_wModel"|2|"RaspberryPi_Pico"|||																																																																			
 |4|"SW42	SW14	SW41"|"MX-Hotswap-1.75U"|3|"SW_Push"|||																																																																		
 |5|"U2	U1"|"SSD1306-0.91-OLED-4pin-128x32"|2|"~"|||																																																																			
