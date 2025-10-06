@@ -37,11 +37,9 @@ This was a pretty difficult build, I ended up redoing the routing and placement 
 |9|"D44	D54	D62	D55	D63	D69	D28	D52	D53	D45	D17	D9	D35	D12	D4	D31	D43	D18	D50	D26	D47	D33	D23	D39	D24	D7	D27	D48	D49	D58	D13	D32	D19	D57	D64	D30	D38	D8	D37	D68	D66	D20	D29	D60	D36	D15	D21	D2	D1	D10	D11	D61	D40	D56	D6	D25	D59	D34	D46	D16	D22	D67	D65	D42	D3	D51	D41	D5	D14"|"D_DO-35_SOD27_P7.62mm_Horizontal"|69|"1N4148"|||
 
 ### Also Needed
-69 hotswap sockets\
 69 mx mechanical switches\
 69 keycaps\
 8 heatset inserts\
-8 3mm screws\
 4 stabilizers\
 1 trrs cable\
 any ruber grommets for the feet
