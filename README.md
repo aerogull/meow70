@@ -26,7 +26,8 @@ This was a pretty difficult build, I ended up redoing the routing and placement 
 |Id|"Designator"|"Footprint"|"Quantity"|"Designation"|"Supplier and ref"|
 |----|----|----|----|----|----|																																																																			
 |1|"SW17	SW20	SW24	SW3	SW67	SW47	SW49	SW2	SW62	SW52	SW44	SW11	SW40	SW9	SW1	SW64	SW50	SW39	SW51	SW60	SW34	SW36	SW37	SW38	SW10	SW28	SW16	SW35	SW19	SW32	SW27	SW7	SW21	SW68	SW66	SW25	SW45	SW69	SW23	SW26	SW13	SW65	SW22	SW8	SW54	SW63	SW18	SW5	SW46	SW43	SW30	SW61	SW31	SW4	SW6	SW33	SW48	SW12"|"MX-Hotswap-1U"|58|"SW_Push"|||											
-|2|"SW53	SW15"|"MX-Hotswap-1.25U"|2|"SW_Push"|||																																																																			
+|2|"SW53	SW15"|"MX-Hotswap-1.25U"|2|"SW_Push"|||		
+
 |3|"A1	A3"|"RaspberryPi_Pico_Common_THT_wModel"|2|"RaspberryPi_Pico"|||																																																																			
 |4|"SW42	SW14	SW41"|"MX-Hotswap-1.75U"|3|"SW_Push"|||																																																																		
 |5|"U2	U1"|"SSD1306-0.91-OLED-4pin-128x32"|2|"~"|||																																																																			
@@ -34,3 +35,9 @@ This was a pretty difficult build, I ended up redoing the routing and placement 
 |7|"J2	J1"|"TENSILITY_54-00174"|2|"AudioJack4"|||																																																																			
 |8|"SW59	SW58"|"MX-Hotswap-2U"|2|"SW_Push"|||																																																																			
 |9|"D44	D54	D62	D55	D63	D69	D28	D52	D53	D45	D17	D9	D35	D12	D4	D31	D43	D18	D50	D26	D47	D33	D23	D39	D24	D7	D27	D48	D49	D58	D13	D32	D19	D57	D64	D30	D38	D8	D37	D68	D66	D20	D29	D60	D36	D15	D21	D2	D1	D10	D11	D61	D40	D56	D6	D25	D59	D34	D46	D16	D22	D67	D65	D42	D3	D51	D41	D5	D14"|"D_DO-35_SOD27_P7.62mm_Horizontal"|69|"1N4148"|||
+
+### Also Needed
+8 heatset inserts\
+4 stabilizers\
+1 trrs cable\
+any ruber grommets for the feet
