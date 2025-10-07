@@ -60301,6 +60301,54 @@
 			)
 		)
 	)
+	(gr_text "PCB3D_TL_a"
+		(at 72.6 64.1 0)
+		(layer "Edge.Cuts")
+		(uuid "5d597e90-6fb9-4d20-9a12-c516ba4824dc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "PCB3D_BR_a"
+		(at 253.8 164.7 0)
+		(layer "Edge.Cuts")
+		(uuid "83962f5f-a9cb-4a06-8cba-adbcf294a51f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "PCB3D_BR_b"
+		(at 437.1 164.85 0)
+		(layer "Edge.Cuts")
+		(uuid "8bb950c1-8241-48c3-bc6e-cd4dbb7d7ee8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "PCB3D_TL_b"
+		(at 255.7 64.05 0)
+		(layer "Edge.Cuts")
+		(uuid "cf8c532d-95cd-4948-b28b-5699520dc84c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(segment
 		(start 100.8788 83.3072)
 		(end 107.2256 76.9604)
