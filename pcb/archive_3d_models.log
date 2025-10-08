@@ -1,0 +1,927 @@
+10-08 14:00:54 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 238:Plugin executed on: 'win32'
+10-08 14:00:54 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 239:Plugin executed with python version: '3.11.5 (main, Jan 27 2025, 07:08:36) [MSC v.1942 64 bit (AMD64)]'
+10-08 14:00:54 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 240:KiCad build version: 9.0.1
+10-08 14:00:54 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 241:Plugin version: 1.0.15
+10-08 14:00:54 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 246:Screen sizes: [wx.Size(1920, 1080), wx.Size(1920, 1080)]
+10-08 14:00:54 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 253:Dialog size: wx.Size(213, 81)
+10-08 14:00:54 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 255:Char size: 15
+10-08 14:00:55 com_github_MitjaNemec_Archive3DModels.archive_3d_models 30:Starting to archive 3D models
+10-08 14:00:55 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW56
+10-08 14:00:55 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:00:55 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:00:55 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:00:55 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:00:55 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:00:55 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:00:55 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:00:55 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW29
+10-08 14:00:55 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:00:56 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:00:56 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:00:56 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:00:56 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:00:56 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:00:56 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:00:56 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW57
+10-08 14:00:56 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:00:56 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:00:56 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:00:56 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:00:56 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:00:56 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:00:56 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:00:56 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW55
+10-08 14:00:56 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:00:57 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:00:57 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:00:57 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:00:57 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:00:57 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:00:57 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:00:57 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW42
+10-08 14:00:57 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:00:57 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:00:57 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:00:57 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:00:57 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:00:57 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:00:57 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:00:57 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW14
+10-08 14:00:57 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:00:57 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:00:57 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:00:57 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:00:57 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:00:57 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:00:57 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:00:57 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW41
+10-08 14:00:57 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:00:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:00:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:00:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:00:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:00:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:00:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:00:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW53
+10-08 14:00:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:00:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:00:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:00:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:00:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:00:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:00:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:00:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW15
+10-08 14:00:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:00:59 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:00:59 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:00:59 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:00:59 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:00:59 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:00:59 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:00:59 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW17
+10-08 14:00:59 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:00:59 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:00:59 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:00:59 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:00:59 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:00:59 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:00:59 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:00:59 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW20
+10-08 14:00:59 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:00:59 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:00:59 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:00:59 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:00:59 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:00:59 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:00:59 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:00:59 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW24
+10-08 14:00:59 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:00 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:00 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:00 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:00 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:00 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:00 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:00 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW3
+10-08 14:01:00 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:00 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:00 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:00 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:00 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:00 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:00 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:00 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW67
+10-08 14:01:00 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:01 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:01 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:01 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:01 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:01 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:01 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:01 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW47
+10-08 14:01:01 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:01 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:01 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:01 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:01 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:01 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:01 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:01 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW49
+10-08 14:01:01 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:01 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:01 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:01 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:01 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:01 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:01 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:01 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW2
+10-08 14:01:01 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:02 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:02 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:02 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:02 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:02 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:02 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:02 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW62
+10-08 14:01:02 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:02 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:02 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:02 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:02 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:02 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:02 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:02 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW52
+10-08 14:01:02 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW44
+10-08 14:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW11
+10-08 14:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW40
+10-08 14:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW9
+10-08 14:01:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW1
+10-08 14:01:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:05 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:05 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:05 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:05 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:05 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:05 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:05 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW64
+10-08 14:01:05 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:05 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:05 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:05 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:05 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:05 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:05 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:05 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW50
+10-08 14:01:05 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:05 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:05 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:05 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:05 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:05 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:05 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:05 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW39
+10-08 14:01:05 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW51
+10-08 14:01:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW60
+10-08 14:01:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:07 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:07 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:07 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:07 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:07 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:07 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:07 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW34
+10-08 14:01:07 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:07 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:07 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:07 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:07 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:07 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:07 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:07 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW36
+10-08 14:01:07 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:07 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:07 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:08 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:08 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:08 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:08 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:08 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW37
+10-08 14:01:08 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:08 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:08 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:08 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:08 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:08 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:08 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:08 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW38
+10-08 14:01:08 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:08 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:08 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:08 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:08 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:08 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:08 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:08 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW10
+10-08 14:01:08 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW28
+10-08 14:01:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW16
+10-08 14:01:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:10 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:10 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:10 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:10 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:10 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW35
+10-08 14:01:10 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:10 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:10 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:10 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:10 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:10 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:10 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:10 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW19
+10-08 14:01:10 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:10 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:10 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:10 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:10 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:10 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:10 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:10 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW32
+10-08 14:01:10 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:11 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:11 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:11 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:11 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:11 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:11 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:11 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW27
+10-08 14:01:11 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:11 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:11 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:11 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:11 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:11 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:11 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:11 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW7
+10-08 14:01:11 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:11 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:11 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:12 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:12 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:12 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:12 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:12 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW21
+10-08 14:01:12 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:12 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:12 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:12 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:12 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:12 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:12 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:12 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW68
+10-08 14:01:12 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:12 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:12 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:12 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:12 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:12 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:12 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:12 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW66
+10-08 14:01:12 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:13 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:13 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:13 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:13 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:13 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:13 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:13 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW25
+10-08 14:01:13 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:13 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:13 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:13 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:13 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:13 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:13 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:13 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW45
+10-08 14:01:13 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:14 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:14 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:14 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:14 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:14 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:14 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:14 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW69
+10-08 14:01:14 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:14 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:14 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:14 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:14 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:14 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:14 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:14 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW23
+10-08 14:01:14 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:14 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:14 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:14 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:14 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:14 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:14 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:14 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW26
+10-08 14:01:14 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW13
+10-08 14:01:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW65
+10-08 14:01:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW22
+10-08 14:01:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW8
+10-08 14:01:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW54
+10-08 14:01:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:17 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:17 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:17 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:17 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:17 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:17 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:17 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW63
+10-08 14:01:17 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:17 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:17 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:17 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:17 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:17 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:17 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:17 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW18
+10-08 14:01:17 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:18 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:18 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:18 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:18 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:18 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:18 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:18 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW5
+10-08 14:01:18 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:18 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:18 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:18 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:18 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:18 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:18 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:18 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW46
+10-08 14:01:18 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:18 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:18 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:18 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:18 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:18 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:18 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:18 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW43
+10-08 14:01:18 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:19 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:19 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:19 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:19 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:19 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:19 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:19 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW30
+10-08 14:01:19 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:19 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:19 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:19 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:19 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:19 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:19 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:19 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW61
+10-08 14:01:19 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:20 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:20 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:20 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:20 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:20 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:20 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:20 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW31
+10-08 14:01:20 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:20 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:20 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:20 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:20 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:20 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:20 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:20 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW4
+10-08 14:01:20 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:20 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:20 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:20 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:20 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:20 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:20 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:20 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW6
+10-08 14:01:20 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:21 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:21 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:21 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:21 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:21 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:21 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:21 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW33
+10-08 14:01:21 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:21 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:21 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:21 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:21 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:21 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:21 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:21 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW48
+10-08 14:01:21 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:22 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:22 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:22 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:22 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:22 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:22 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:22 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW12
+10-08 14:01:22 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:22 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:22 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:22 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:22 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:22 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:22 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:22 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW59
+10-08 14:01:22 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:22 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:22 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:22 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:22 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:22 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:22 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:22 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW58
+10-08 14:01:22 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:23 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/cherry-mx-switches-mx-1.snapshot.16/MX .STEP
+10-08 14:01:23 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:23 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/MX-Hotswap-Socket.step
+10-08 14:01:23 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ./MX-Hotswap-Socket.step
+10-08 14:01:23 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ./MX-Hotswap-Socket.step
+10-08 14:01:23 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ./MX-Hotswap-Socket.step
+10-08 14:01:23 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J2
+10-08 14:01:23 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/54-00174/54-00174.step
+10-08 14:01:23 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/54-00174/54-00174.step
+10-08 14:01:23 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J1
+10-08 14:01:23 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/54-00174/54-00174.step
+10-08 14:01:23 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/54-00174/54-00174.step
+10-08 14:01:23 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: U2
+10-08 14:01:23 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/OLED_128x32.step
+10-08 14:01:23 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/OLED_128x32.step
+10-08 14:01:23 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: U1
+10-08 14:01:23 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/OLED_128x32.step
+10-08 14:01:23 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/OLED_128x32.step
+10-08 14:01:23 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: A1
+10-08 14:01:23 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/ki-lime-pi-pico_2.1.3/RaspberryPi_Pico/Module_RaspberryPi_Pico.3dshapes/RaspberryPi_Pico_H.step
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/ki-lime-pi-pico_2.1.3/RaspberryPi_Pico/Module_RaspberryPi_Pico.3dshapes/RaspberryPi_Pico_H.step
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_WH_Socketed.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_WH_Socketed.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_WH_Socketed.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_WH.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_WH.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_WH.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_W_AddedHeaders_Socketed.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_W_AddedHeaders_Socketed.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_W_AddedHeaders_Socketed.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_W_AddedHeaders.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_W_AddedHeaders.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_W_AddedHeaders.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_H_Socketed.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_H_Socketed.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_H_Socketed.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_H.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_H.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_H.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_AddedHeaders_Socketed.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_AddedHeaders_Socketed.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_AddedHeaders_Socketed.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_AddedHeaders.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_AddedHeaders.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_AddedHeaders.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_DIP-40_W17.78mm_H8.51mm_Socket.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_DIP-40_W17.78mm_H8.51mm_Socket.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_DIP-40_W17.78mm_H8.51mm_Socket.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: A3
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: D:/Downloads/DownloadDump3/ki-lime-pi-pico_2.1.3/RaspberryPi_Pico/Module_RaspberryPi_Pico.3dshapes/RaspberryPi_Pico_H.step
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: D:/Downloads/DownloadDump3/ki-lime-pi-pico_2.1.3/RaspberryPi_Pico/Module_RaspberryPi_Pico.3dshapes/RaspberryPi_Pico_H.step
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_WH_Socketed.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_WH_Socketed.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_WH_Socketed.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_WH.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_WH.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_WH.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_W_AddedHeaders_Socketed.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_W_AddedHeaders_Socketed.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_W_AddedHeaders_Socketed.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_W_AddedHeaders.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_W_AddedHeaders.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_W_AddedHeaders.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_H_Socketed.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_H_Socketed.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_H_Socketed.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_H.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_H.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_H.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_AddedHeaders_Socketed.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_AddedHeaders_Socketed.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_AddedHeaders_Socketed.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_AddedHeaders.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_AddedHeaders.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_AddedHeaders.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_DIP-40_W17.78mm_H8.51mm_Socket.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_DIP-40_W17.78mm_H8.51mm_Socket.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_DIP-40_W17.78mm_H8.51mm_Socket.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D44
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D54
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D62
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D55
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D63
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D69
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D28
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D52
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D53
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D45
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D17
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D9
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D35
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D12
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D4
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D31
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D43
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D18
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D50
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D26
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D47
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D33
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D23
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D39
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D24
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D7
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D27
+10-08 14:01:24 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D48
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D49
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D58
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D13
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D32
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D19
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D57
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D64
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D30
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D38
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D8
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D37
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D68
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D66
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D20
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D29
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D60
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D36
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D15
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D21
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D2
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D1
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D10
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D11
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D61
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D40
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D56
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D6
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D25
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D59
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D34
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D46
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D16
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D22
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D67
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D65
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D42
+10-08 14:01:25 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D3
+10-08 14:01:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D51
+10-08 14:01:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D41
+10-08 14:01:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D5
+10-08 14:01:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D14
+10-08 14:01:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl
+10-08 14:01:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 164:Did not succeed to copy 3D models!
+('SW56', 'MX-Hotswap-Socket.step')
+('SW29', 'MX-Hotswap-Socket.step')
+('SW57', 'MX-Hotswap-Socket.step')
+('SW55', 'MX-Hotswap-Socket.step')
+('SW42', 'MX-Hotswap-Socket.step')
+('SW14', 'MX-Hotswap-Socket.step')
+('SW41', 'MX-Hotswap-Socket.step')
+('SW53', 'MX-Hotswap-Socket.step')
+('SW15', 'MX-Hotswap-Socket.step')
+('SW17', 'MX-Hotswap-Socket.step')
+('SW20', 'MX-Hotswap-Socket.step')
+('SW24', 'MX-Hotswap-Socket.step')
+('SW3', 'MX-Hotswap-Socket.step')
+('SW67', 'MX-Hotswap-Socket.step')
+('SW47', 'MX-Hotswap-Socket.step')
+('SW49', 'MX-Hotswap-Socket.step')
+('SW2', 'MX-Hotswap-Socket.step')
+('SW62', 'MX-Hotswap-Socket.step')
+('SW52', 'MX-Hotswap-Socket.step')
+('SW44', 'MX-Hotswap-Socket.step')
+('SW11', 'MX-Hotswap-Socket.step')
+('SW40', 'MX-Hotswap-Socket.step')
+('SW9', 'MX-Hotswap-Socket.step')
+('SW1', 'MX-Hotswap-Socket.step')
+('SW64', 'MX-Hotswap-Socket.step')
+('SW50', 'MX-Hotswap-Socket.step')
+('SW39', 'MX-Hotswap-Socket.step')
+('SW51', 'MX-Hotswap-Socket.step')
+('SW60', 'MX-Hotswap-Socket.step')
+('SW34', 'MX-Hotswap-Socket.step')
+('SW36', 'MX-Hotswap-Socket.step')
+('SW37', 'MX-Hotswap-Socket.step')
+('SW38', 'MX-Hotswap-Socket.step')
+('SW10', 'MX-Hotswap-Socket.step')
+('SW28', 'MX-Hotswap-Socket.step')
+('SW16', 'MX-Hotswap-Socket.step')
+('SW35', 'MX-Hotswap-Socket.step')
+('SW19', 'MX-Hotswap-Socket.step')
+('SW32', 'MX-Hotswap-Socket.step')
+('SW27', 'MX-Hotswap-Socket.step')
+('SW7', 'MX-Hotswap-Socket.step')
+('SW21', 'MX-Hotswap-Socket.step')
+('SW68', 'MX-Hotswap-Socket.step')
+('SW66', 'MX-Hotswap-Socket.step')
+('SW25', 'MX-Hotswap-Socket.step')
+('SW45', 'MX-Hotswap-Socket.step')
+('SW69', 'MX-Hotswap-Socket.step')
+('SW23', 'MX-Hotswap-Socket.step')
+('SW26', 'MX-Hotswap-Socket.step')
+('SW13', 'MX-Hotswap-Socket.step')
+('SW65', 'MX-Hotswap-Socket.step')
+('SW22', 'MX-Hotswap-Socket.step')
+('SW8', 'MX-Hotswap-Socket.step')
+('SW54', 'MX-Hotswap-Socket.step')
+('SW63', 'MX-Hotswap-Socket.step')
+('SW18', 'MX-Hotswap-Socket.step')
+('SW5', 'MX-Hotswap-Socket.step')
+('SW46', 'MX-Hotswap-Socket.step')
+('SW43', 'MX-Hotswap-Socket.step')
+('SW30', 'MX-Hotswap-Socket.step')
+('SW61', 'MX-Hotswap-Socket.step')
+('SW31', 'MX-Hotswap-Socket.step')
+('SW4', 'MX-Hotswap-Socket.step')
+('SW6', 'MX-Hotswap-Socket.step')
+('SW33', 'MX-Hotswap-Socket.step')
+('SW48', 'MX-Hotswap-Socket.step')
+('SW12', 'MX-Hotswap-Socket.step')
+('SW59', 'MX-Hotswap-Socket.step')
+('SW58', 'MX-Hotswap-Socket.step')
+('A1', '${KICAD9_3DMODEL_DIR}\\Module.3dshapes\\RaspberryPi_Pico_WH_Socketed.wrl')
+('A1', '${KICAD9_3DMODEL_DIR}\\Module.3dshapes\\RaspberryPi_Pico_WH.wrl')
+('A1', '${KICAD9_3DMODEL_DIR}\\Module.3dshapes\\RaspberryPi_Pico_W_AddedHeaders_Socketed.wrl')
+('A1', '${KICAD9_3DMODEL_DIR}\\Module.3dshapes\\RaspberryPi_Pico_W_AddedHeaders.wrl')
+('A1', '${KICAD9_3DMODEL_DIR}\\Module.3dshapes\\RaspberryPi_Pico_H_Socketed.wrl')
+('A1', '${KICAD9_3DMODEL_DIR}\\Module.3dshapes\\RaspberryPi_Pico_H.wrl')
+('A1', '${KICAD9_3DMODEL_DIR}\\Module.3dshapes\\RaspberryPi_Pico_AddedHeaders_Socketed.wrl')
+('A1', '${KICAD9_3DMODEL_DIR}\\Module.3dshapes\\RaspberryPi_Pico_AddedHeaders.wrl')
+('A1', '${KICAD9_3DMODEL_DIR}\\Module.3dshapes\\RaspberryPi_Pico_DIP-40_W17.78mm_H8.51mm_Socket.wrl')
+('A3', '${KICAD9_3DMODEL_DIR}\\Module.3dshapes\\RaspberryPi_Pico_WH_Socketed.wrl')
+('A3', '${KICAD9_3DMODEL_DIR}\\Module.3dshapes\\RaspberryPi_Pico_WH.wrl')
+('A3', '${KICAD9_3DMODEL_DIR}\\Module.3dshapes\\RaspberryPi_Pico_W_AddedHeaders_Socketed.wrl')
+('A3', '${KICAD9_3DMODEL_DIR}\\Module.3dshapes\\RaspberryPi_Pico_W_AddedHeaders.wrl')
+('A3', '${KICAD9_3DMODEL_DIR}\\Module.3dshapes\\RaspberryPi_Pico_H_Socketed.wrl')
+('A3', '${KICAD9_3DMODEL_DIR}\\Module.3dshapes\\RaspberryPi_Pico_H.wrl')
+('A3', '${KICAD9_3DMODEL_DIR}\\Module.3dshapes\\RaspberryPi_Pico_AddedHeaders_Socketed.wrl')
+('A3', '${KICAD9_3DMODEL_DIR}\\Module.3dshapes\\RaspberryPi_Pico_AddedHeaders.wrl')
+('A3', '${KICAD9_3DMODEL_DIR}\\Module.3dshapes\\RaspberryPi_Pico_DIP-40_W17.78mm_H8.51mm_Socket.wrl')
