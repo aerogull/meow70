@@ -23,21 +23,16 @@ This was a pretty difficult build, I ended up redoing the routing and placement 
 ![case](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6bef63617453d71a1472ec37ec80bc572794aa9b_screenshot_2025-03-09_155011.png)
 
 ## KICAD BOM (with prices for what I used)
-|Id|Designator|Footprint|Quantity|Designation|Price Each|
-|----|----|----|----|----|----|																																																																			
-|1|"SW17	SW20	SW24	SW3	SW67	SW47	SW49	SW2	SW62	SW52	SW44	SW11	SW40	SW9	SW1	SW64	SW50	SW39	SW51	SW60	SW34	SW36	SW37	SW38	SW10	SW28	SW16	SW35	SW19	SW32	SW27	SW7	SW21	SW68	SW66	SW25	SW45	SW69	SW23	SW26	SW13	SW65	SW22	SW8	SW54	SW63	SW18	SW5	SW46	SW43	SW30	SW61	SW31	SW4	SW6	SW33	SW48	SW12"|"MX-Hotswap-1U"|58|"SW_Push"|$0.247|
-|2|"SW53	SW15"|"MX-Hotswap-1.25U"|2|"SW_Push"|$0.247|
-|3|"A1	A3"|"RaspberryPi_Pico_Common_THT_wModel"|2|"RaspberryPi_Pico"|$4.975|
-|4|"SW42	SW14	SW41"|"MX-Hotswap-1.75U"|3|"SW_Push"|$0.247|
-|5|"U2	U1"|"SSD1306-0.91-OLED-4pin-128x32"|2|"~"|$15.02|
-|6|"SW56	SW29	SW57	SW55"|"MX-Hotswap-1.5U"|4|"SW_Push"|$0.247|
-|7|"J2	J1"|"TENSILITY_54-00174"|2|"AudioJack4"|$1.865|
-|8|"SW59	SW58"|"MX-Hotswap-2U"|2|"SW_Push"|$0.247|
-|9|"D44	D54	D62	D55	D63	D69	D28	D52	D53	D45	D17	D9	D35	D12	D4	D31	D43	D18	D50	D26	D47	D33	D23	D39	D24	D7	D27	D48	D49	D58	D13	D32	D19	D57	D64	D30	D38	D8	D37	D68	D66	D20	D29	D60	D36	D15	D21	D2	D1	D10	D11	D61	D40	D56	D6	D25	D59	D34	D46	D16	D22	D67	D65	D42	D3	D51	D41	D5	D14"|"D_DO-35_SOD27_P7.62mm_Horizontal"|69|"1N4148"|$0.0644|
-
-### What Else I Used
-69 mx mechanical switches - gateron g pro 3.0 silvers ($0.455)\
-69 keycaps (3D printed)\
-8 heatset inserts - 97164A112 aluminium tapered for plastic ($1.15)\
-4 stabilizers - divinikey tx ap stabs ($6.27)\
-1 trrs cable ($17.18)\
+|Quantity|Item|Designation|Price Each|Total Price + Shipping|Link|
+|----|----|----|----|----|----|
+|69|"MX-Hotswap"|"SW_Push"|$0.125|$16.74|[here](https://www.amazon.com/gp/product/B096WZ6TJ5?smid=A257ALKOU7JKIJ&psc=1)|
+|2|"RaspberryPi_Pico_Common_THT_wModel"|"RaspberryPi_Pico"|$4|$8|Provided by HackClub HQ!|
+|2|"SSD1306-0.91-OLED-4pin-128x32"|"~"|$2.997|$17.26|[here](https://www.amazon.com/gp/product/B0F36YPH1W?smid=A3AG45GXH6FGYX&psc=1)|
+|2|"TENSILITY_54-00174"|"AudioJack4"|$0.69|$1.38|[here](https://www.digikey.com/en/products/detail/tensility-international-corp/54-00174/12140150?s=N4IgTCBcDaIKwBYC0AGFBGA7AkBdAvkA)|
+|69|"D_DO-35_SOD27_P7.62mm_Horizontal"|"1N4148"|$0.039|$10.22|[here](https://www.digikey.com/en/products/detail/onsemi/1N4148/458603)|
+|69|MX Mechanical Switches|Gateron G Pro 3.0 Silvers|$0.345|$50.11|[here](https://www.gateron.co/products/gateron-g-pro-3-0-switch-set?variant=40479583043673)
+|69|Keycaps|3D Printed (Cherry or DSA)|Printing Legion||[this](https://github.com/rsheldiii/KeyV2) or [this](https://github.com/anhthang/dsa-keycap)|
+|8|Heatset Inserts|97164A112|$0.3492|$8.73 (+whatever mcmaster carr does for shipping)|[here](https://www.mcmaster.com/products/heat-set-inserts/tapered-heat-set-inserts-for-plastic-7)|
+|4|Stabilizers|Divinikey TX AP Plate-Mount Stabs|$3.667|$29.80|[here](https://divinikey.com/products/tx-ap-stabilizers-rev-4?variant=40406837395521)|
+|1|TRRS Cable|Random Amazon 1ft TRRS Cable|$4.99|$12.49|[here](https://www.amazon.com/gp/product/B083L982CM?smid=A1F4MO8CLOOQSY&th=1)|
+|1|Full Case|4 Parts Split Up for Printing|Priting Legion||[here](https://github.com/aerogull/meow70/tree/main/prod)|
