@@ -26,7 +26,7 @@ This was a pretty difficult build, I ended up redoing the routing and placement 
 |Quantity|Item|Designation|Price Each|Total Price + Shipping|Link|
 |----|----|----|----|----|----|
 |69|"MX-Hotswap"|"SW_Push"|$0.125|$16.74|[here](https://www.amazon.com/gp/product/B096WZ6TJ5?smid=A257ALKOU7JKIJ&psc=1)|
-|2|"RaspberryPi_Pico_Common_THT_wModel"|"RaspberryPi_Pico"|$4|$8|Provided by HackClub HQ!|
+|2|"RaspberryPi_Pico_Common_THT_wModel"|"RaspberryPi_Pico"|$4|Provided by HackClub HQ!|[here](https://www.digikey.com/en/products/detail/raspberry-pi/SC0915/13684020)|
 |2|"SSD1306-0.91-OLED-4pin-128x32"|"~"|$2.997|$17.26|[here](https://www.amazon.com/gp/product/B0F36YPH1W?smid=A3AG45GXH6FGYX&psc=1)|
 |2|"TENSILITY_54-00174"|"AudioJack4"|$0.69|$1.38|[here](https://www.digikey.com/en/products/detail/tensility-international-corp/54-00174/12140150?s=N4IgTCBcDaIKwBYC0AGFBGA7AkBdAvkA)|
 |69|"D_DO-35_SOD27_P7.62mm_Horizontal"|"1N4148"|$0.039|$10.22|[here](https://www.digikey.com/en/products/detail/onsemi/1N4148/458603)|
