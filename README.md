@@ -35,5 +35,6 @@ This was a pretty difficult build, I ended up redoing the routing and placement 
 |8|Heatset Inserts|97164A112|$0.3492|$8.73 (+whatever mcmaster carr does for shipping)|[here](https://www.mcmaster.com/products/heat-set-inserts/tapered-heat-set-inserts-for-plastic-7)|
 |4|Stabilizers|Divinikey TX AP Plate-Mount Stabs|$3.667|$29.80|[here](https://divinikey.com/products/tx-ap-stabilizers-rev-4?variant=40406837395521)|
 |1|TRRS Cable|Random Amazon 1ft TRRS Cable|$4.99|$12.49|[here](https://www.amazon.com/gp/product/B083L982CM?smid=A1F4MO8CLOOQSY&th=1)|
-|1|Full Case|4 Parts Split Up for Printing|Priting Legion||[here](https://github.com/aerogull/meow70/tree/main/prod)|
+|1|Full Case|4 Parts Split Up for Printing|Self or Printing Legion||[here](https://github.com/aerogull/meow70/tree/main/prod)|
 |8|Screws|3mm 0.5x16mm|$0.345|$2.76|[here](https://www.lowes.com/pd/Hillman-3mm-0-5-x-16mm-Allen-Drive-Cap-Screws-4-Count/50088880)|
+|5|Sets of PCBs|JLCPCB|$20.70 (for 5)|$55.95|[here](https://cart.jlcpcb.com/quote?orderType=1&homeUploadNum=360e6b78f3044f3bb4ea106e3b9b02fb&businessType=example&fileName=keyboardv2_364.2375x100.5mm_for_Default.zip)|
