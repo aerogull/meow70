@@ -507,7 +507,7 @@
       "specctra_dsn": "keyboardv2.2.dsn",
       "step": "keyboardv2.step",
       "svg": "",
-      "vrml": "keyboardv2.wrl"
+      "vrml": "../models/keyboardv2.wrl"
     },
     "page_layout_descr_file": ""
   },
