@@ -38,3 +38,5 @@ This was a pretty difficult build, I ended up redoing the routing and placement 
 |1|Full Case|4 Parts Split Up for Printing|Self or Printing Legion||[here](https://github.com/aerogull/meow70/tree/main/prod)|
 |8|Screws|3mm 0.5x16mm|$0.345|$2.76|[here](https://www.lowes.com/pd/Hillman-3mm-0-5-x-16mm-Allen-Drive-Cap-Screws-4-Count/50088880)|
 |5|Sets of PCBs|JLCPCB|$20.70 (for 5)|$55.95|[here](https://cart.jlcpcb.com/quote?orderType=1&homeUploadNum=360e6b78f3044f3bb4ea106e3b9b02fb&businessType=example&fileName=keyboardv2_364.2375x100.5mm_for_Default.zip)|
+
+[link to step model of completed board](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b98df7d8c57167f14ca20340c5cecc1c217099e2_full_assembly_para.step)
