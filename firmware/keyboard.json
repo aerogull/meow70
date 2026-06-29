@@ -11,9 +11,9 @@
     "features": {
         "bootmagic": true,
         "command": false,
-        "console": true,
+        "console": false,
         "extrakey": true,
-        "mousekey": true,
+        "mousekey": false,
         "nkro": true
     },
     "split": {

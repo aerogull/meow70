@@ -1,5 +1,5 @@
 # Meow70
-![render](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e9d4dfca12c62388194c156511e3229996377a35_pcbbb.png)
+![render](./images/pcbbb.png)
 
 ## Building the Board
 My idea started with how I wanted a split keyboard that wasn't ortholinear or ergo. So, I took a picture of my Keychron K6 Pro, and designed a split keyboard off of it. It runs on 2 Raspberry Pi Picos (or drop in replacements) with a simple, open case design and qmk firmware.\
@@ -18,9 +18,9 @@ This was a pretty difficult build, I ended up redoing the routing and placement 
 * 8x M3 Heatset Inserts
 
 ## More Photos
-![schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/861ee88085adb3ed38c9c139cd76bb08c1c6f49c_screenshot_2025-03-09_154452.png)
-![pcb](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4fb86ea1f16ce5646c4538d2c452d8ba963b1977_screenshot_2025-03-09_154533.png)
-![case](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6bef63617453d71a1472ec37ec80bc572794aa9b_screenshot_2025-03-09_155011.png)
+![schematic](./images/1.png)
+![pcb](./images/2.png)
+![case](./images/3.png)
 
 ## KICAD BOM (with prices for what I used)
 |Quantity|Item|Designation|Price Each|Total Price + Shipping|Link|
@@ -40,3 +40,6 @@ This was a pretty difficult build, I ended up redoing the routing and placement 
 |5|Sets of PCBs|JLCPCB|$20.70 (for 5)|$55.95|[here](https://cart.jlcpcb.com/quote?orderType=1&homeUploadNum=360e6b78f3044f3bb4ea106e3b9b02fb&businessType=example&fileName=keyboardv2_364.2375x100.5mm_for_Default.zip)|
 
 [link to step model of completed board](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b98df7d8c57167f14ca20340c5cecc1c217099e2_full_assembly_para.step)
+
+## Completed Build!
+![build](./images/4.jpg)

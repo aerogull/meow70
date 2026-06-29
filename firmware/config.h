@@ -8,5 +8,7 @@
 #define I2C1_SCL_PIN GP19
 
 #define OLED_TIMEOUT 0
+#define FORCE_NKRO
+#define DEBOUNCE 3
 
 #define EE_HANDS

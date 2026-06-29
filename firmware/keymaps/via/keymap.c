@@ -7,28 +7,28 @@
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     
     [0] = LAYOUT(
-        KC_ESCAPE, KC_1, KC_2, KC_3, KC_4, KC_5, KC_6, KC_TAB, KC_Q, KC_W, KC_E, KC_R, KC_T, 
+        QK_GRAVE_ESCAPE, KC_1, KC_2, KC_3, KC_4, KC_5, KC_6, KC_TAB, KC_Q, KC_W, KC_E, KC_R, KC_T, 
         KC_CAPS_LOCK, KC_A, KC_S, KC_D, KC_F, KC_G, KC_LEFT_SHIFT, KC_Z, KC_X, KC_C, KC_V, KC_B,
-        KC_LEFT_ALT, KC_LEFT_CTRL, KC_LEFT_GUI, KC_SPACE, PB_1, PB_2, PB_3, PB_4, KC_7, KC_8, KC_9, KC_0, KC_MINUS, KC_EQUAL, KC_BACKSPACE,
+        KC_LEFT_GUI, KC_LEFT_CTRL, KC_LEFT_ALT, KC_SPACE, KC_F13, KC_F14, KC_F15, KC_F16, KC_7, KC_8, KC_9, KC_0, KC_MINUS, KC_EQUAL, KC_BACKSPACE,
         KC_Y, KC_U, KC_I, KC_O, KC_P, KC_LEFT_BRACKET, KC_RIGHT_BRACKET, KC_BACKSLASH,
         KC_H, KC_J, KC_K, KC_L, KC_SEMICOLON, KC_QUOTE, KC_ENTER, KC_N, KC_M, KC_COMMA, KC_DOT, KC_SLASH, KC_RIGHT_SHIFT, KC_UP,
-        KC_SPACE, KC_RIGHT_ALT, LT(1, KC_GRAVE), LT(2, KC_SCROLL_LOCK), KC_LEFT, KC_DOWN, KC_RIGHT
+        KC_SPACE, KC_RIGHT_ALT, MO(1), MO(2), KC_LEFT, KC_DOWN, KC_RIGHT
     ),
     [1] = LAYOUT(
-        KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO,
+        KC_GRAVE, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO,
         KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO,
-        KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_KB_VOLUME_UP, KC_KB_VOLUME_DOWN, KC_NO,
+        KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_VOLU, KC_VOLD, KC_NO,
         KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO,
         KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO,
-        KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO
+        KC_NO, KC_NO, KC_TRNS, KC_NO, KC_NO, KC_NO, KC_NO
     ),
     [2] = LAYOUT(
-        KC_NO, KC_F1, KC_F2, KC_F3, KC_F4, KC_F5, KC_F6, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO,
+        KC_TILD, KC_F1, KC_F2, KC_F3, KC_F4, KC_F5, KC_F6, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO,
         KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO,
         KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_F7, KC_F8, KC_F9, KC_F10, KC_F11, KC_F12, KC_NO,
         KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO,
         KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO,
-        KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO
+        KC_NO, KC_NO, KC_NO, KC_TRNS, KC_NO, KC_NO, KC_NO
     )
 };
 
@@ -88,6 +88,7 @@ bool oled_task_user(void) {
         uint8_t wpmt = get_current_wpm();
         char wpm_str[4];
         snprintf(wpm_str, sizeof(wpm_str), "%u", wpmt);
+        oled_set_cursor(64, 0);
         oled_write(wpm_str, false);
         oled_write_P(PSTR("wpm"), false);
     }
