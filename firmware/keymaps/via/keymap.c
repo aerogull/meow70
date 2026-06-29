@@ -88,8 +88,7 @@ bool oled_task_user(void) {
         uint8_t wpmt = get_current_wpm();
         char wpm_str[4];
         snprintf(wpm_str, sizeof(wpm_str), "%u", wpmt);
-        oled_set_cursor(64, 0);
-        oled_write_P(wpm_str, false);
+        oled_write(wpm_str, false);
         oled_write_P(PSTR("wpm"), false);
     }
     else {
