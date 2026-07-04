@@ -1,17 +1,30 @@
 This a split keyboard that maintains most of the traditional layout of a standard keyboard.
 
 69 total keys (nice)
+
 4 programmable buttons (hardware macros :3)
+
 2 layer switch buttons for even more keys (mmmmm function row)
+
 USB-C connectivity (orph picos my beloved)
+
 Dynamic master/slave (double the connectivity) 
+
 TRRS cable connections (very sproingey)
+
 2 128x32 OLED displays (2xBongo Cats not included)
+
 Built in QMK (low latency for all the gamin)
+
 VIA support (yk, unofficially)
+
 Simple pcb shape (for making many many cases)
+
 Hotswap keys (i'm thinking linears today, tactiles tomorrow)
+
 Preconfigured out-of-the-box (some eeprom flashing required)
+
+
 
 Everything was done by me, @aerogull.
 
